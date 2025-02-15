@@ -5,18 +5,18 @@
 ---
 
 ### About Me
-I have a deep fascination for the geological and geophysical processes that shape planetary bodies. My research interests focus on:
-- **Planetary Tectonics** 🌋
-- **Atmospheric Evolution** 🌌
+I have a fascination for the planetary geophysical processes that shape . My research interests focus on:
+- **Planetary Condition Simulation** 🌋
+- **Thermal Evolution** 🌌
 - **Icy Moons** ❄️
 
-I’ve had the opportunity to work on projects related to lunar surface roughness
+I’ve had the opportunity to work on projects related to lunar surface roughness.
 
 ### Technical Skills
-- **Programming**: Python, Fortran, MATLAB
+- **Programming**: Python, MATLAB
 - **Data Analysis**: NumPy, Pandas, SciPy
 - **Visualization**: Matplotlib
-- **Remote Sensing**: ENVI
+- **Remote Sensing**: QGIS, ENVI
 
 Thanks for visiting my profile, and feel free to reach out if you’d like to connect or collaborate!
 
