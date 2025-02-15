@@ -1,4 +1,4 @@
-# Hi there, I’m Vo Nhat Le or Nathalee Vo👋
+# Hi there, I’m Vo Nhat Le or Nathalie Vo
 
 🌍 **Planetary Geoscientist | Aspiring Researcher | Tech Enthusiast**
 
