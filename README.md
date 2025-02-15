@@ -5,7 +5,7 @@
 ---
 
 ### About Me
-I have a fascination for the planetary geophysical processes that shape . My research interests focus on:
+I have a fascination for the planetary geophysical processes. My research interests focus on:
 - **Planetary Condition Simulation** 🌋
 - **Thermal Evolution** 🌌
 - **Icy Moons** ❄️
@@ -13,7 +13,7 @@ I have a fascination for the planetary geophysical processes that shape . My res
 I’ve had the opportunity to work on projects related to lunar surface roughness.
 
 ### Technical Skills
-- **Programming**: Python, MATLAB
+- **Programming**: Python, MATLAB, Generative AI
 - **Data Analysis**: NumPy, Pandas, SciPy
 - **Visualization**: Matplotlib
 - **Remote Sensing**: QGIS, ENVI
